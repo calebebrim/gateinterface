@@ -1,6 +1,6 @@
 
 
-div[data-role="page"]{
-  background: "https://raw.githubusercontent.com/calebebrim/gateinterface/master/Mac_Desktop_Background.jpg";
+div[data-role='page'] {
+  background: transparent url(https://raw.githubusercontent.com/calebebrim/gateinterface/master/Mac_Desktop_Background.jpg);
   
 }
